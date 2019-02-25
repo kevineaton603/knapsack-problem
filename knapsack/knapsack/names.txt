@@ -1,0 +1,11 @@
+170
+9
+David 3 200
+Adam 40 600
+Jackson 1 80
+Alice 5 10
+Walter 50 1000
+Austin 21 500
+Sam 13 200
+Jill 150 1500
+Jack 10 20
